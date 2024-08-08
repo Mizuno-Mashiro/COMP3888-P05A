@@ -4,4 +4,4 @@ pipelines:
   default:
     - step:
         script:
-          - git push --mirror git@github.com:Baiken1412/COMP3888_TH17_02_P05.git
+          - git push --mirror git@github.com:Mizuno-Mashiro/COMP3888_TH17_02_P05.git
